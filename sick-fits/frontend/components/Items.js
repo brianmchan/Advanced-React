@@ -47,8 +47,9 @@ class Items extends Component {
           }}
         </Query>
       </Center>
-    )
+    );
   }
 }
 
 export default Items;
+export { ALL_ITEMS_QUERY };
